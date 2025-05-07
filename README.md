@@ -32,7 +32,7 @@ This Power BI dashboard provides a comprehensive view of inventory performance a
 
 ---
 
-## 🛠 Tech Stack
+## Tech Stack
 
 - Power BI Desktop  
 - DAX (Data Analysis Expressions)  
