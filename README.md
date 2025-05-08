@@ -2,7 +2,7 @@
 
 This Power BI dashboard provides a comprehensive view of inventory performance across multiple factories and material types. It focuses on actionable KPIs such as Inventory Rotation (12M), % WIP, and Inventory Value trends.
 
-![Dashboard Screenshot](screenshot.png)
+![Dashboard Screenshot](InventoryPerformanceDashboard-PowerBI_v02.png)
 
 ---
 
